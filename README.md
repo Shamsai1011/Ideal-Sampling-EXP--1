@@ -77,7 +77,7 @@ plt.show()
 ```
 # Output Waveform
 <img width="1398" height="990" alt="EXP 1" src="https://github.com/user-attachments/assets/3f52a2a3-3b95-4590-a80f-8c971c8f3424" />
-# Results
 
-<img width="1398" height="990" alt="EXP 1" src="https://github.com/user-attachments/assets/19e3a3f5-2a48-4c34-b1e4-7b9b401684a3" />
+# Results
+The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified
 # Hardware experiment output waveform.
