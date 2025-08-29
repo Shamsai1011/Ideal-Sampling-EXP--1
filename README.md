@@ -77,13 +77,13 @@ plt.show()
 ```
 # Output Waveform
 ```
-<img width="1398" height="990" alt="EXP 1" src="https://github.com/user-attachments/assets/08cb6f06-fec9-486a-9321-385c26adea65" />
+img width="1398" height="990" alt="EXP 1" src="https://github.com/user-attachments/assets/08cb6f06-fec9-486a-9321-385c26adea65" /
 
 ```
 # Results
 ```
 the output wave is generated
-<img width="1398" height="990" alt="EXP 1" src="https://github.com/user-attachments/assets/563cedda-2b4a-4ca9-a0d3-b7f684f435c7" />
+img width="1398" height="990" alt="EXP 1" src="https://github.com/user-attachments/assets/563cedda-2b4a-4ca9-a0d3-b7f684f435c7" /
 
 ```
 # Hardware experiment output waveform.
